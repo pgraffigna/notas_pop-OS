@@ -10,5 +10,4 @@ Gnome Extensions
 - Vitals
 
 Apps
-- flameshot 
-+ crear keyboard shortcut con boton PRINTSCR 
+- flameshot (crear keyboard shortcut botón PRINTSCR)
