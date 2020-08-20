@@ -1,4 +1,4 @@
-# notas_pop-_OS
+# notas_pop-OS
 
 Configuración inicial de SO pop!_OS 
 
